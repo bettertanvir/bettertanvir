@@ -9,7 +9,7 @@ Skills: PostgreSQL / MySQL / Oracle Database / Node.js / Power BI / Mongo DB / M
 
 - 🔭 I’m currently working on Zilingo Bangladesh Ltd. 
 - 🌱 I’m currently learning Node.js for testing Api 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking for Database related work 
 - 💬 Ask me about Database 
 - 📫 How to reach me: bettertanvir@gmail.com 
 
